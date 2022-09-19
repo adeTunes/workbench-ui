@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/workbench-ui/static/css/main.e985c62d.css",
+    "main.js": "/workbench-ui/static/js/main.a4c8271f.js",
+    "static/js/787.8d228103.chunk.js": "/workbench-ui/static/js/787.8d228103.chunk.js",
+    "static/media/arrow.svg": "/workbench-ui/static/media/arrow.cbbbe33374ac3b793b2f0deb9de93f5f.svg",
+    "index.html": "/workbench-ui/index.html",
+    "main.e985c62d.css.map": "/workbench-ui/static/css/main.e985c62d.css.map",
+    "main.a4c8271f.js.map": "/workbench-ui/static/js/main.a4c8271f.js.map",
+    "787.8d228103.chunk.js.map": "/workbench-ui/static/js/787.8d228103.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e985c62d.css",
+    "static/js/main.a4c8271f.js"
+  ]
+}
